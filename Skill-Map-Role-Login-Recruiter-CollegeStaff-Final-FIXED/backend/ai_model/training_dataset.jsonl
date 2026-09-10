@@ -1,0 +1,105 @@
+{"text": "What should I learn next for backend development?", "intent": "next_skills"}
+{"text": "Which skills should I improve first?", "intent": "next_skills"}
+{"text": "What should I study next for my target role?", "intent": "next_skills"}
+{"text": "Tell me my biggest skill gaps", "intent": "skill_gaps"}
+{"text": "Where am I weak for this role?", "intent": "skill_gaps"}
+{"text": "Which skills are missing from my profile?", "intent": "skill_gaps"}
+{"text": "Am I ready for this job?", "intent": "readiness"}
+{"text": "How ready am I for my target career?", "intent": "readiness"}
+{"text": "Can I apply for this role now?", "intent": "readiness"}
+{"text": "What career should I choose?", "intent": "career_choice"}
+{"text": "Which role suits my skills?", "intent": "career_choice"}
+{"text": "What job role is best for me?", "intent": "career_choice"}
+{"text": "How can I improve my resume?", "intent": "resume"}
+{"text": "What is wrong with my resume?", "intent": "resume"}
+{"text": "How do I make my resume stronger?", "intent": "resume"}
+{"text": "How should I prepare for interviews?", "intent": "interview"}
+{"text": "Give me interview preparation advice", "intent": "interview"}
+{"text": "What should I practice before an interview?", "intent": "interview"}
+{"text": "Which projects should I build?", "intent": "projects"}
+{"text": "Suggest a project for my career goal", "intent": "projects"}
+{"text": "What project will prove my skills?", "intent": "projects"}
+{"text": "What courses should I take?", "intent": "learning"}
+{"text": "Suggest learning resources for my gaps", "intent": "learning"}
+{"text": "How do I create a learning roadmap?", "intent": "learning"}
+{"text": "How can I find jobs matching my skills?", "intent": "jobs"}
+{"text": "Which internships should I apply for?", "intent": "jobs"}
+{"text": "Find opportunities for my profile", "intent": "jobs"}
+{"text": "How long will it take me to become job ready?", "intent": "timeline"}
+{"text": "Give me a realistic learning timeline", "intent": "timeline"}
+{"text": "How many months do I need to prepare?", "intent": "timeline"}
+{"text": "Explain my match score", "intent": "match_score"}
+{"text": "Why is my role match percentage low?", "intent": "match_score"}
+{"text": "How is the skill match calculated?", "intent": "match_score"}
+{"text": "What is my strongest skill?", "intent": "strengths"}
+{"text": "Which skills are my strengths?", "intent": "strengths"}
+{"text": "What am I already good at?", "intent": "strengths"}
+{"text": "What should I do today?", "intent": "action_plan"}
+{"text": "Give me a plan for this week", "intent": "action_plan"}
+{"text": "What are my priority actions?", "intent": "action_plan"}
+{"text": "Hello", "intent": "greeting"}
+{"text": "Hi AI", "intent": "greeting"}
+{"text": "Can you help me with my career?", "intent": "greeting"}
+{"text": "Thanks", "intent": "thanks"}
+{"text": "Thank you for the help", "intent": "thanks"}
+{"text": "That was useful", "intent": "thanks"}
+{"text": "what skills should i learn", "intent": "next_skills"}
+{"text": "what do i learn next", "intent": "next_skills"}
+{"text": "which technology should i focus on", "intent": "next_skills"}
+{"text": "what should i improve next", "intent": "next_skills"}
+{"text": "show my gaps", "intent": "skill_gaps"}
+{"text": "what do i lack", "intent": "skill_gaps"}
+{"text": "what skills am i missing", "intent": "skill_gaps"}
+{"text": "where are my weaknesses", "intent": "skill_gaps"}
+{"text": "am i job ready", "intent": "readiness"}
+{"text": "how close am i to job ready", "intent": "readiness"}
+{"text": "can i target this role", "intent": "readiness"}
+{"text": "how prepared am i", "intent": "readiness"}
+{"text": "which career fits me", "intent": "career_choice"}
+{"text": "what role fits me", "intent": "career_choice"}
+{"text": "which career path is suitable", "intent": "career_choice"}
+{"text": "where should i build my career", "intent": "career_choice"}
+{"text": "review my cv", "intent": "resume"}
+{"text": "how can i improve my cv", "intent": "resume"}
+{"text": "make my cv better", "intent": "resume"}
+{"text": "resume advice please", "intent": "resume"}
+{"text": "interview tips", "intent": "interview"}
+{"text": "help me prepare for interviews", "intent": "interview"}
+{"text": "what interview questions should i practice", "intent": "interview"}
+{"text": "how to crack the interview", "intent": "interview"}
+{"text": "give me project ideas", "intent": "projects"}
+{"text": "what should i build", "intent": "projects"}
+{"text": "suggest a portfolio project", "intent": "projects"}
+{"text": "which project should i make", "intent": "projects"}
+{"text": "recommend courses", "intent": "learning"}
+{"text": "what should i learn", "intent": "learning"}
+{"text": "suggest resources", "intent": "learning"}
+{"text": "where should i study", "intent": "learning"}
+{"text": "show me suitable jobs", "intent": "jobs"}
+{"text": "what internships fit me", "intent": "jobs"}
+{"text": "how do i find relevant opportunities", "intent": "jobs"}
+{"text": "which jobs match me", "intent": "jobs"}
+{"text": "how fast can i become ready", "intent": "timeline"}
+{"text": "give me a preparation timeline", "intent": "timeline"}
+{"text": "how much time do i need", "intent": "timeline"}
+{"text": "when can i be job ready", "intent": "timeline"}
+{"text": "why is my score like this", "intent": "match_score"}
+{"text": "explain my percentage", "intent": "match_score"}
+{"text": "how did you calculate my score", "intent": "match_score"}
+{"text": "what affects my match", "intent": "match_score"}
+{"text": "show my strengths", "intent": "strengths"}
+{"text": "what am i strong in", "intent": "strengths"}
+{"text": "which skills are strongest", "intent": "strengths"}
+{"text": "what are my best skills", "intent": "strengths"}
+{"text": "give me a weekly plan", "intent": "action_plan"}
+{"text": "what should i work on first", "intent": "action_plan"}
+{"text": "make me a priority plan", "intent": "action_plan"}
+{"text": "give me next steps", "intent": "action_plan"}
+{"text": "hey", "intent": "greeting"}
+{"text": "hello there", "intent": "greeting"}
+{"text": "hi there", "intent": "greeting"}
+{"text": "i need career help", "intent": "greeting"}
+{"text": "thanks a lot", "intent": "thanks"}
+{"text": "appreciate it", "intent": "thanks"}
+{"text": "great thanks", "intent": "thanks"}
+{"text": "thank you", "intent": "thanks"}

@@ -1,0 +1,6 @@
+{
+  "name": "Skill Map",
+  "description": "Skill Mapping & Opportunity Recommendation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

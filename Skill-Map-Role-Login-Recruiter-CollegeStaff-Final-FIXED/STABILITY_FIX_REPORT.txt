@@ -1,0 +1,14 @@
+Skill Map Role Portal - Stability Fix
+======================================
+
+This build preserves the original uploaded project files. Only:
+frontend/src/views/LoginView.tsx
+was modified to fix the broken first-line import and ensure registration carries the selected role.
+
+Verified:
+- All backend .js files pass node --check.
+- All frontend TS/TSX files pass TypeScript transpilation/syntax validation.
+- All relative frontend imports resolve to existing files.
+- Comparison against the uploaded source shows only LoginView.tsx changed.
+
+Runtime npm install/build could not be completed in this sandbox because dependency installation timed out. Run npm install locally in frontend and backend, then npm run lint / npm run build.
